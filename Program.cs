@@ -29,7 +29,9 @@ namespace Test_Cases
             objHouse.Price = 8000;
             Console.WriteLine(objHouse.Price);
             objHouse.Name = "House Extraordinaire";
-            // Console.WriteLine(objHouse.Name);
+            Console.WriteLine(objHouse.Name);
+
+            Console.WriteLine("Hello."=="Hello.");
 
         }
     }
