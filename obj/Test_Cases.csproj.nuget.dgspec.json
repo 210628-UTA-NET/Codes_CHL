@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\test_cases\\Test_Cases.csproj": {}
+    "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\Test_Cases\\Test_Cases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\test_cases\\Test_Cases.csproj": {
+    "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\Test_Cases\\Test_Cases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\test_cases\\Test_Cases.csproj",
+        "projectUniqueName": "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\Test_Cases\\Test_Cases.csproj",
         "projectName": "Test_Cases",
-        "projectPath": "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\test_cases\\Test_Cases.csproj",
+        "projectPath": "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\Test_Cases\\Test_Cases.csproj",
         "packagesPath": "C:\\Users\\Chris Lee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\test_cases\\obj\\",
+        "outputPath": "C:\\Users\\Chris Lee\\Documents\\Revature\\Test_0\\Test_Cases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chris Lee\\AppData\\Roaming\\NuGet\\NuGet.Config"

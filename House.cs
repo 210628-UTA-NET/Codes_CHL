@@ -19,6 +19,8 @@ namespace HouseFunction
         //remove get or set? make it read-only or write-only
         //        
         //implementation on getting and setting naming fields.
+
+
         public int Price
         {
             get
