@@ -1,0 +1,13 @@
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\bin\Debug\netcoreapp3.1\Test_Cases.exe
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\bin\Debug\netcoreapp3.1\Test_Cases.deps.json
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\bin\Debug\netcoreapp3.1\Test_Cases.runtimeconfig.json
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\bin\Debug\netcoreapp3.1\Test_Cases.runtimeconfig.dev.json
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\bin\Debug\netcoreapp3.1\Test_Cases.dll
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\bin\Debug\netcoreapp3.1\Test_Cases.pdb
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\obj\Debug\netcoreapp3.1\Test_Cases.csprojAssemblyReference.cache
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\obj\Debug\netcoreapp3.1\Test_Cases.AssemblyInfoInputs.cache
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\obj\Debug\netcoreapp3.1\Test_Cases.AssemblyInfo.cs
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\obj\Debug\netcoreapp3.1\Test_Cases.csproj.CoreCompileInputs.cache
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\obj\Debug\netcoreapp3.1\Test_Cases.dll
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\obj\Debug\netcoreapp3.1\Test_Cases.pdb
+C:\Users\Chris Lee\Documents\Revature\Test_0\test_cases\obj\Debug\netcoreapp3.1\Test_Cases.genruntimeconfig.cache
