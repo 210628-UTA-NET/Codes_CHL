@@ -32,6 +32,8 @@ namespace Test_Cases
             Console.WriteLine(objHouse.Name);
 
             Console.WriteLine("Hello."=="Hello.");
+            
+            Collection.CollectionMain();
 
         }
     }
